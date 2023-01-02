@@ -1,3 +1,4 @@
+//PORTUGUESE
 #  Instraterrestre: interface
 
 Olá, Terraqueo:alien:! Bem-vindo ao repertório do Instraterrestre.
@@ -8,3 +9,10 @@ Olá, Terraqueo:alien:! Bem-vindo ao repertório do Instraterrestre.
 
   
 
+//ENGLISH 
+
+# Hello, friend from Earth! 
+
+- Instraterrestre it's a social media focused on alien, ufo and related content
+
+- The name is a pun,in portuguese language we call life from another planet by estraterrestre, so I joined it with Instagram. It's a sh*t name for be honest LOL, but I like the idea.
